@@ -1,2 +1,2 @@
 # sendmemes
-###########going to be used for some homeworks
+*going to be used for some homeworks*
