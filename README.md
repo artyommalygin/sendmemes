@@ -9,4 +9,4 @@
   + жи
 2. есть
 
-[hse](https://www.hse.ru/)
+[говно](https://www.hse.ru/)
