@@ -9,4 +9,4 @@
   + жи
 2. есть
 
-[hse] (hse.ru)
+[hse](https://www.hse.ru/)
